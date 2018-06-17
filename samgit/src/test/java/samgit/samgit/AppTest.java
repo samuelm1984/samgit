@@ -34,5 +34,6 @@ public class AppTest
     public void testApp()
     {
         assertTrue( true );
+        System.out.println("This is text to check code modified");
     }
 }
